@@ -8,6 +8,8 @@
 
 [03-HardwareSupport-2018.9.18.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/03-HardwareSupport-2018.9.18.rar)
 
+[04-Process Concept-2018.9.25.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/04-Process%20Concept-2018.9.25.rar)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
@@ -33,4 +35,8 @@
 #### 往届优秀实验报告例子
 
 [往届优秀实验报告例子](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Example-lab1-report.pdf)
+
+### Homework
+
+[Homework-1-Part%201.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar)
 
