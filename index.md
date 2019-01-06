@@ -22,6 +22,12 @@
 
 [10-Real Memory-2018.11.12](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/10-Real%20Memory-2018.11.12.rar)
 
+[11-Virtual%20Memory-2018.11.23.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/11-Virtual%20Memory-2018.11.23.zip)
+
+[12-IO-2018.12.7.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/12-IO-2018.12.7.zip)
+
+[13-File-2018.12.19.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/13-File-2018.12.19.zip)
+
 ### 课程参考资料
 
 [参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
@@ -61,6 +67,8 @@
 [Honework-2.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Honework-2.rar)
 
 [homework summary.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/homework%20summary.zip)
+
+[Part4-File](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Part4-File-%E4%B9%A0%E9%A2%98%E8%AF%BE.zip)
 
 
 
